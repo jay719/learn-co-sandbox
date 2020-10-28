@@ -1,0 +1,5 @@
+ super_ugly= {
+:hi => Time.now
+:poop=> "poopydoop"
+}
+super_ugly
